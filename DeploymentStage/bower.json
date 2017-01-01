@@ -1,0 +1,15 @@
+{
+  "name": "bower",
+  "description": "",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.6.1",
+    "jquery": "~3.1.1"
+  }
+}
